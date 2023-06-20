@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vestas-demo/static/css/main.d4eafc89.css",
+    "main.js": "/vestas-demo/static/js/main.7c3ea725.js",
+    "static/media/hero-bg.png": "/vestas-demo/static/media/hero-bg.f56d40ba9095e78b28a0.png",
+    "static/media/newsletter.png": "/vestas-demo/static/media/newsletter.3c6f5285845d630b5b33.png",
+    "static/media/features-2.png": "/vestas-demo/static/media/features-2.0c3c0706f0e8be1ee5e2.png",
+    "static/media/features-1.png": "/vestas-demo/static/media/features-1.87040724d0d8bf4ef68e.png",
+    "static/media/turbine3.png": "/vestas-demo/static/media/turbine3.ee3e59755160befa5ae7.png",
+    "static/media/turbine2.png": "/vestas-demo/static/media/turbine2.69e54a86b881884b4acb.png",
+    "static/media/turbine1.png": "/vestas-demo/static/media/turbine1.78b5d9d919ce53360f67.png",
+    "static/media/turbine4.png": "/vestas-demo/static/media/turbine4.b1029fe6499037dfbfc9.png",
+    "static/media/logo.png": "/vestas-demo/static/media/logo.61d75b2778e5b28d75c3.png",
+    "index.html": "/vestas-demo/index.html",
+    "main.d4eafc89.css.map": "/vestas-demo/static/css/main.d4eafc89.css.map",
+    "main.7c3ea725.js.map": "/vestas-demo/static/js/main.7c3ea725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4eafc89.css",
+    "static/js/main.7c3ea725.js"
+  ]
+}
