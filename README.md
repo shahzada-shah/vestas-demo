@@ -11,7 +11,8 @@ The Vestas Demo project is a testament to the transformative power of renewable 
 * **Tailwind CSS:** Tailwind CSS, a utility-first CSS framework, is utilized for efficient and responsive styling. It ensures a consistent and visually appealing user interface by providing a wide range of utility classes.
 * **Icon Libraries:** Various icon libraries, including react-icons and @iconscout/react-unicons-solid, are integrated into the project to enhance the visual presentation and provide intuitive navigation options.
 * **Modular and Reusable Components:** The code showcases the implementation of modular and reusable components, adhering to best practices for maintainability and extensibility. This approach promotes code reusability and simplifies future enhancements.
-* 
+
+
 ## Installation and Usage
 1. Clone the repository using the following command <br>
 ```git clone https://github.com/shahzada-shah/vestas-demo.git``` <br><br>
