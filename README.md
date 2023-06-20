@@ -2,7 +2,8 @@
 
 ### [Live Site](https://shahzada-shah.github.io/vestas-demo/)
 
-![Website Demo](https://cdn.discordapp.com/attachments/1078426124679393391/1120811351737127034/c6ce3dbceac0051b146252a433c7fccc_1.gif)
+![gif](https://cdn.discordapp.com/attachments/1078426124679393391/1120813152666398720/c6ce3dbceac0051b146252a433c7fccc_2.gif)
+
 
 ## Introduction
 The Vestas Demo project is a testament to the transformative power of renewable energy. Through cutting-edge technologies and innovative solutions, we have harnessed the potential of React, Tailwind CSS, and various icon libraries to create a dynamic and visually stunning web application.
