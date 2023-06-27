@@ -17,7 +17,7 @@ The Vestas Demo project is a testament to the transformative power of renewable 
 1. Clone the repository using the following command <br>
 ```git clone https://github.com/shahzada-shah/vestas-demo.git``` <br><br>
 2. Navigate to the project directory  <br>
-```cd renewable-services``` <br><br>
+```cd vestas-demo``` <br><br>
 3. Install the required dependencies <br>
 ```npm install``` <br><br>
 4. Start the development server <br>
